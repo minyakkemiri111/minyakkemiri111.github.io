@@ -1,13 +1,13 @@
 {
   "Ads": [
     {
-      "more_app"                  : "0",
-      "select_main_ads"           : "ADMOB-B",
-      "select_backup_ads"         : "ADMOB-B",
+      "more_app"                  : "1",
+      "select_main_ads"           : "ADMOB",
+      "select_backup_ads"         : "ADMOB",
 
-      "main_ads_banner"           : "null",
-      "main_ads_intertitial"      : "null",
-      "main_ads_native"           : "null",
+      "main_ads_banner"           : "ca-app-pub-6673205636597113/7193343245",
+      "main_ads_intertitial"      : "ca-app-pub-6673205636597113/5880261574",
+      "main_ads_native"           : "ca-app-pub-6673205636597113/7684297834",
 
       "open_ads"                  : "null",
 
